@@ -1,0 +1,6 @@
+beatriz,bibirod,adm,AG09,São Paulo
+bruna,teste,at,AG08,São Bernardo
+cleiton,skatepunk,adm,AG09,Santo André
+dani,cebrilok,at,AG02,São Paulo
+douglas,dogomes,at,AG01,São Caetano 
+ingrid,infofa,adm,AG05,São Paulo
